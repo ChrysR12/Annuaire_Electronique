@@ -1,0 +1,5 @@
+com\mycompany\annuaireelectronique\MainApp.class
+com\mycompany\annuaireelectronique\ClassAction.class
+com\mycompany\annuaireelectronique\FXMLController.class
+com\mycompany\annuaireelectronique\Personne.class
+com\mycompany\annuaireelectronique\ChangeLineInFile.class

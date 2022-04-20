@@ -1,0 +1,16 @@
+/*.background1{
+   -fx-background-color:linear-gradient(270deg, hsla(322, 47%, 49%, 1) 6%, hsla(267, 52%, 69%, 0.9)  90%);
+}
+
+.button {
+    -fx-background-radius: 15px;
+}
+
+
+.button:hover,
+.button:focus {
+    background: #ea4c89;
+    color: #fff;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.7);
+    transform: scale(.9);
+}*/

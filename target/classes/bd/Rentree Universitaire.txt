@@ -1,0 +1,15 @@
+2021;paris;info;etablissement privÃ©e;masculin;rakoto;voatavo;
+2020;tana;gestion;etablissement public;masculin;randria;savony;
+2022;Itaosy;inclusiv academy;ï¿½tablissements privï¿½s;Masculin;RANAIVOSON;Sedra;
+2022;Analakely;ESMIA;ï¿½tablissements privï¿½s;Masculin;RAO;Nickson;
+2020;Tomboarivo;Asja;ï¿½tablissements privï¿½s;Masculin;RANAIVOSON;Tsiaro;
+2020;Ambanidia;Ankatso;ï¿½tablissements publics;Masculin;RAKOTONARIVO;Yvan;
+iuyti;oiuy;poiu;Établissements publics;Masculin;oiuyoiu; ;
+iuyti;oiuy;poiu;Établissements publics;Masculin;oiuyoiu; ;
+poiug;pbpiuh;piyg;Établissements privés;Feminin;iuyi; ;
+poiug;pbpiuh;piyg;Établissements privés;Feminin;iuyi; ;
+oiuyo;oiuto;crouyrc;Établissements privés;Masculin;idyitrc; ;
+boiy;pi utpi;toyrc;Établissements privés;Masculin;ofofdoftr; ;
+vyty;ovytouy;ouytv;Établissements publics;Masculin;ovuytv;ouytvo;
+ra;ro;ri;Établissements publics;Feminin;re; ;
+fa;fo;fi;Établissements privés;Feminin;fe;fu;
